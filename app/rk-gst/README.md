@@ -4,4 +4,4 @@
 
 ## 安装方法
 
-见根目录 [docs/installation.md](../../docs/installation.md)。
+见根目录 [docs/如何安装.md](../../docs/如何安装.md)。
