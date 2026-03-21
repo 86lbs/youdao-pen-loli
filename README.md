@@ -83,7 +83,7 @@ adb shell miniapp_cli install /userdisk/loli_v1.5.amr
 
 本项目由 QQ 群社区维护，欢迎有编程能力的开发者加入参与开发。
 
-- 群精华消息（常见问题 / 历史资料）：https://qun.qq.com/essence/index?gc=961114239
+- 群精华消息（请加入群聊后，在QQ/TIM中打开）：https://qun.qq.com/essence/index?gc=961114239
 
 ---
 
