@@ -12,9 +12,7 @@ https://m.bilibili.com/opus/1041644000127221764
 
 https://github.com/86lbs/ydpen-adb-unlock
 
-2. 确定自己的设备是否支持见群公告
-
-https://web.qun.qq.com/mannounce/detail.html?_wv=1031#fid=7f704939000000005834be69cca60a00&gc=961114239
+2. 确定自己的设备是否支持见[这里](docs/能否安装.md)
 
 3. 下载应用，打开群文件，找到loli文件夹，里面是各版本的软件包
 
