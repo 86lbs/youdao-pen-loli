@@ -16,7 +16,7 @@ https://github.com/86lbs/ydpen-adb-unlock
 
 3. 下载应用
 
-打开 ``/app`` ，里面是各版本的软件包
+打开 [``/app``](app/) ，里面是各版本的软件包
 
 4. 安装应用见[教程](docs/如何安装.md)
 
